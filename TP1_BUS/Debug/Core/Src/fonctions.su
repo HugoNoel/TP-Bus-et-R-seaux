@@ -1,0 +1,9 @@
+fonctions.c:26:6:Get_id	24	static
+fonctions.c:44:5:BMP280_Write_Reg	32	static
+fonctions.c:67:10:BMP280_Read_Reg	32	static
+fonctions.c:86:6:Set_config	16	static
+fonctions.c:99:6:Get_calib	16	static
+fonctions.c:133:14:Get_T	24	static
+fonctions.c:149:14:Get_P	24	static
+fonctions.c:165:14:bmp280_compensate_T_int32	32	static
+fonctions.c:174:14:bmp280_compensate_P_int64	136	static
